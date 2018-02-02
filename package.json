@@ -1,0 +1,25 @@
+{
+  "name": "react-native-juss",
+  "version": "1.0.5",
+  "description": "Some simple components for react native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanMo/react-native-juss.git"
+  },
+  "keywords": [
+    "reactnative",
+    "react-native",
+    "react",
+    "component"
+  ],
+  "author": "ChanMo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanMo/react-native-juss/issues"
+  },
+  "homepage": "https://github.com/ChanMo/react-native-juss#readme"
+}
